@@ -64,7 +64,7 @@ public class SinglyLLReverseOrder {
         sList.display();
         
         sList.reverse();
-
+git 
         sList.display();
       }
 }
